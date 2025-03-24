@@ -5,3 +5,10 @@ networkx
 scipy
 python-louvain
 seaborn
+karateclub
+python-igraph
+leidenalg
+plotly
+nbformat
+node2vec
+
