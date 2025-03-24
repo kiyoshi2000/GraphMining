@@ -31,7 +31,7 @@ This project focuses on the analysis of graph structures through **centrality me
 
 ### Notebooks
 - `DrugInteraction.ipynb`: Community and centrality analysis on biological interaction data.
-- `github.ipynb`: Network representation and clustering based on GitHub project relations.
+- `Social_network.ipynb`: Network representation and clustering based on GitHub project relations.
 
 ---
 
